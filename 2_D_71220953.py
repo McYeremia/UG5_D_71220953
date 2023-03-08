@@ -22,11 +22,5 @@ def hitung_mobil():
             break
         else:
             print('Input salah')
-
-
-            
-hitung_mobil()   
-
-
-
-
+         
+hitung_mobil()
